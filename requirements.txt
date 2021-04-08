@@ -1,3 +1,0 @@
-streamlit
-scooby-doo
-stop-words
