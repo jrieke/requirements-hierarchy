@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "streamlit"
+name = "de-stop-words"
 version = "0.1.0"
 description = ""
 authors = ["William Schmitt <will@streamlit.io>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-stop-words = "^2018.7.23"
 streamlit = "^0.80.0"
+stop-words = "^2018.7.23"
 
 [tool.poetry.dev-dependencies]
 
