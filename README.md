@@ -2,6 +2,7 @@
 
 an app to test streamlit requirements path parsing
 
+```
 scripts
 ├── pip
 │   └── streamlit
@@ -18,4 +19,4 @@ scripts
         ├── pyproject.toml
         └── streamlit.py
 
-6 directories, 8 files
+```
