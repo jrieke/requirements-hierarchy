@@ -1,3 +1,4 @@
 streamlit
 stop-words
 tqdm
+streamlit_analytics
